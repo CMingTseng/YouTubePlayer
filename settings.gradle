@@ -1,0 +1,8 @@
+include ':Activity'
+include ':SupportFragmentXML'
+include ':FragmentXML'
+include ':official_sample'
+include ':InFrameLayoutSupportFragment'
+include ':InFrameLayoutSupportFragmentXML'
+include ':InFrameLayoutFragment'
+include ':InFrameLayoutFragmentXML'
